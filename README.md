@@ -4,3 +4,6 @@ The goal of this project was to model potential effects of vaccination for COVID
 
 View the Colab Notebook Here: 
 https://drive.google.com/file/d/1P1HjWH4KVHhYBAZUnVbhCJ4x2om8Bjkl/view?usp=sharing
+
+View Writeup Here:
+https://www.overleaf.com/read/xhkxxbmwzzhm
